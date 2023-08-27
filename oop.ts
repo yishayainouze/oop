@@ -94,4 +94,3 @@ const square = new Square();
 const shapes: Shape[] = [circle, triangle, square];
 
 renderShapes(shapes);
-
